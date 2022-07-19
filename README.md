@@ -8,7 +8,7 @@ Hi, I’m Filip
 
 🌱 I'm still learning, but I hope to contribute to open source projects soon!
 
-📯 You can find my contact detail [here](https://nishijama.github.io/AboutMe/)
+📯 You can find my contact details [here](https://nishijama.github.io/AboutMe/)
 
 Thank you for stopping by!
 
