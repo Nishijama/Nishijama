@@ -1,3 +1,5 @@
+![Profile Picture](https://nishijama.github.io/AboutMe/violet_profile.png)
+
 Hi, I’m Filip
 
 👨‍💻 I’m a second-year student of computer science and an analyst at McKinsey & Co.
