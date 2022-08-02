@@ -1,14 +1,16 @@
 Hi, I’m Filip
 
-👨‍💻 I’m a second-year student of computer science and an analyst at McKinsey & Co.
+👨‍💻 I’m a second-year student of computer science and an analyst at McKinsey & Co with over 5 years of experience in corporate environment.
 
-🌐 I’m currently focusing on mastering python for web development, automation and data analysis.
+🌐 I’m currently focusing on mastering python and javascript for web development and data analysis.
 
-📙 I love foreign languages - I studied english philology and I'm learining Japanese on my own.
+📙 I love foreign languages - I studied english philology at a university and I'm learining Japanese on my own.
 
 🌱 I'm still learning, but I hope to contribute to open source projects soon!
 
 📯 You can find my contact details [here](https://nishijama.github.io/AboutMe/)
+
+Please check out my projects below ⬇️
 
 Thank you for stopping by!
 
