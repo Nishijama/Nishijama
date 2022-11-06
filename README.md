@@ -4,13 +4,9 @@ Hi, I’m Filip
 
 👔 I'm an analyst at McKinsey & Co with over 5 years of experience in corporate environment.
 
-🌐 I’m currently focusing on mastering python and javascript for web development.
+🌐 I’m currently focusing on mastering javascript for front-end web development.
 
-👨‍💻 By the end of summer I'm planning to complete the CS50's Web Programming with Python and JavaScript course.
-
-📙 I love foreign languages - I studied english philology at a university and I'm learining Japanese on my own.
-
-📯 You can find my contact details [here](https://nishijama.github.io/AboutMe/)
+📙 I love foreign languages - I studied english philology at a university and I'm learining Japanese.
 
 Please check out my projects below ⬇️
 
