@@ -4,9 +4,11 @@ Hi, I’m Filip
 
 👔 I'm an analyst at McKinsey & Co with over 5 years of experience in corporate environment.
 
-🌐 I’m currently focusing on mastering javascript for front-end web development.
+🌐 I’m currently focusing on mastering javascript and ReactJS for front-end web development.
 
-📙 I love foreign languages - I studied english philology at a university and I'm learining Japanese.
+🐍 I've also used Python both for back-end web development and data analysis 🐼
+
+📙 I love foreign languages - I studied english philology at a university and I'm currently learining Japanese.
 
 Please check out my projects below ⬇️
 
