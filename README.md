@@ -1,16 +1,12 @@
 Hi, I’m Filip
 
-🎓 I’m a second-year student of computer science at Collegium Da Vinci university.
+🎓 I’m a third-year student of Information Technology at Collegium Da Vinci university.
 
-👔 I'm an analyst at McKinsey & Co with over 5 years of experience in corporate environment.
+👔 I'm an analyst at McKinsey & Co with over 6 years of experience in corporate environment.
 
-🌐 I’m currently focusing on mastering javascript and ReactJS for front-end web development.
+🐍 I've built a few personal projects in JavaScript, I've also used Python both for back-end web development and data analysis 🐼
 
-🐍 I've also used Python both for back-end web development and data analysis 🐼
-
-📙 I love foreign languages - I studied english philology at a university and I'm currently learining Japanese.
-
-Please check out my projects below ⬇️
+👨‍💻 I'm currently studying for CompTIA A+ and practicing my coding skills on the side. 
 
 Thank you for stopping by!
 
