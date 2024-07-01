@@ -6,7 +6,7 @@ Hi, I’m Filip
 
 🐍 I've built a few personal projects in JavaScript, I've also used Python both for back-end web development and data analysis 🐼
 
-👨‍💻 I'm currently studying for CompTIA A+ and practicing my coding skills on the side. 
+👨‍💻 I'm currently focusing on data engineering and machine learning implementation. 
 
 [My portfolio website](https://nishijama.github.io/)
 
