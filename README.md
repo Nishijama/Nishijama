@@ -1,12 +1,12 @@
 Hi, I’m Filip
 
-🎓 I’m a third-year student of Information Technology at Collegium Da Vinci university.
+🎓 I’m a final-year student of Information Technology / Computer Science at Collegium Da Vinci university.
 
-👔 I'm an analyst at McKinsey & Co with over 6 years of experience in corporate environment.
+👔 I'm a data analyst at McKinsey & Co with over 6 years of experience in corporate environment.
 
-🐍 I've built a few personal projects in JavaScript, I've also used Python both for back-end web development and data analysis 🐼
+🐍 I'm into Python for web development, data analysis and machine learning.
 
-👨‍💻 I'm currently focusing on data engineering and machine learning implementation. 
+👨‍💻 I like JavaScript, too :)
 
 [My portfolio website](https://nishijama.github.io/)
 
